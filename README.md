@@ -1,5 +1,5 @@
-## Hi there, I'm Maxim 👋
-
+## Hi there! 👋
+I'm Maxim, an backend developer specializing in Java.
 <!--
 **maxshushanikov/maxshushanikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
