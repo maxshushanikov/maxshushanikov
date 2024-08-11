@@ -1,5 +1,13 @@
 ## Hi there! 👋
 I'm Maxim, an backend developer specializing in Java.
+## Tech Stack
+- Languages: Java, Python, SQL
+- Web Frameworks: Spring Boot, OSGI, FastAPI
+- Databases: PostgresSQL, MySQL, SQLite
+- ORM: Hibernate, JPA, SQLAlchemy
+- Containerization: Docker, Docker-compose
+- Testing: JUnit, Moclito, AsserJ, pytest
+- CI/CD: Jenkins
 <!--
 **maxshushanikov/maxshushanikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
