@@ -31,6 +31,9 @@ I'm Maxim, an backend developer specializing in Java.
 JUnit, Mockito, AssertJ, pytest
 ### Container Orchestration Tool:
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+### Agile development:
+Scrum Kanban
+
 <!--
 **maxshushanikov/maxshushanikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
