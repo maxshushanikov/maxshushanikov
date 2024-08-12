@@ -33,6 +33,8 @@ JUnit, Mockito, AssertJ, pytest
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ### Agile development:
 Scrum Kanban
+### Operating System:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <!--
 **maxshushanikov/maxshushanikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
