@@ -17,7 +17,17 @@ ___
 > ![FastAPI Badge](https://img.shields.io/badge/-FastAPI-3B4252?style=flat&logo=fastapi&logoColor=BF616A)
   <br>
 </details>
-
+<details>
+  <summary><strong> Frameworks </strong> <sub> (click to expand) </sub></summary>
+  <br>
+  ###### Java
+> ![Spring Badge](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+> ![OSGI Badge](https://img.shields.io/badge/OSGI-3B4252?style=for-the-badge&logo=OSGI&logoColor=5E81AC)
+  
+  ###### Python
+> ![FastAPI Badge](https://img.shields.io/badge/FastAPI-3B4252?style=for-the-badge&logo=fastapi&logoColor=BF616A)
+  <br>
+</details>
 <details>
   <summary><strong> Database & Storage Solutions </strong> <sub> (click to expand) </sub></summary>
   <br>
