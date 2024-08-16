@@ -39,6 +39,18 @@ ___
 <br>
 </details>
 
+<br>
+</details>
+<details>
+  <summary><strong> Project Management </strong> <sub> (click to expand) </sub></summary>
+  <br>
+    
+![Jira Badge](https://img.shields.io/badge/-Jira-3B4252?style=flat&logo=jira&logoColor=BF616A)
+![Confluence Badge](https://img.shields.io/badge/-Confluence-3B4252?style=flat&logo=confluence&logoColor=81A1C1)
+
+<br>
+</details>
+
 <!--
 **maxshushanikov/maxshushanikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
