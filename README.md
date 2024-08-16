@@ -38,9 +38,6 @@ ___
 
 <br>
 </details>
-
-<br>
-</details>
 <details>
   <summary><strong> Project Management </strong> <sub> (click to expand) </sub></summary>
   <br>
