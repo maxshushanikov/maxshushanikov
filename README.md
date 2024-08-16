@@ -1,6 +1,7 @@
 ## Hi there! 👋
 I'm Maxim, an backend developer specializing in Java.
 ___
+<h2 align="center">🛠️ Tech Stack</h2>
 <details>
   <summary><strong> Languages & Libraries </strong> <sub> (click to expand) </sub></summary>
   <br>
