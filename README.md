@@ -5,9 +5,9 @@ ___
   <summary><strong> Languages & Libraries </strong> <sub> (click to expand) </sub></summary>
   <br>
   
-  ![Python Badge](https://img.shields.io/badge/-Python-3B4252?style=flat&logo=python&logoColor=EBCB8B)
-  ![R Badge](https://img.shields.io/badge/-R-3B4252?style=flat&logo=r&logoColor=BF616A)
   ![Java Badge](https://img.shields.io/badge/-Java-3B4252?style=flat&logo=openjdk&logoColor=D08770)
+  ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-3B4252?style=flat&logo=kotlin&logoColor=BF616A)
+  ![Python Badge](https://img.shields.io/badge/-Python-3B4252?style=flat&logo=python&logoColor=EBCB8B)
   
   ###### Python
 > ![Conda Badge](https://img.shields.io/badge/-Conda-3B4252?style=flat&logo=anaconda&logoColor=A3BE8C)
