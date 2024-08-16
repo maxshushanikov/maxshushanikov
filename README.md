@@ -13,7 +13,6 @@ ___
 > ![Conda Badge](https://img.shields.io/badge/-Conda-3B4252?style=flat&logo=anaconda&logoColor=A3BE8C)
 > ![Poetry Badge](https://img.shields.io/badge/-Poetry-3B4252?style=flat&logo=poetry&logoColor=5E81AC)
 > ![PyPI Badge](https://img.shields.io/badge/-PyPI-3B4252?style=flat&logo=pypi&logoColor=B48EAD)
-> ![Django Badge](https://img.shields.io/badge/-Django-3B4252?style=flat&logo=django&logoColor=D08770)
 > ![FastAPI Badge](https://img.shields.io/badge/-FastAPI-3B4252?style=flat&logo=fastapi&logoColor=BF616A)
   <br>
 </details>
