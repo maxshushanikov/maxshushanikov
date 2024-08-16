@@ -10,11 +10,6 @@ ___
   ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-3B4252?style=flat&logo=kotlin&logoColor=BF616A)
   ![Python Badge](https://img.shields.io/badge/-Python-3B4252?style=flat&logo=python&logoColor=EBCB8B)
   
-  ###### Python
-> ![Conda Badge](https://img.shields.io/badge/-Conda-3B4252?style=flat&logo=anaconda&logoColor=A3BE8C)
-> ![Poetry Badge](https://img.shields.io/badge/-Poetry-3B4252?style=flat&logo=poetry&logoColor=5E81AC)
-> ![PyPI Badge](https://img.shields.io/badge/-PyPI-3B4252?style=flat&logo=pypi&logoColor=B48EAD)
-> ![FastAPI Badge](https://img.shields.io/badge/-FastAPI-3B4252?style=flat&logo=fastapi&logoColor=BF616A)
   <br>
 </details>
 <details>
