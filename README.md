@@ -28,7 +28,7 @@ ___
   <summary><strong> Database & Storage Solutions </strong> <sub> (click to expand) </sub></summary>
   <br>
     
-![MySQL Badge](https://img.shields.io/badge/-MySQL-3B4252?style=flat&logo=mysql&logoColor=88C0D0)
+![MySQL Badge](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=88C0D0)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-3B4252?style=flat&logo=postgresql&logoColor=81A1C1)
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-3B4252?style=flat&logo=sqlite&logoColor=B48EAD)
 
