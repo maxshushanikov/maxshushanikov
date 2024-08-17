@@ -22,6 +22,7 @@ ___
   
   ###### Python
 > ![FastAPI Badge](https://img.shields.io/badge/FastAPI-3B4252?style=for-the-badge&logo=fastapi&logoColor=009385)
+> ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   <br>
 </details>
 <details>
