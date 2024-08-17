@@ -25,6 +25,10 @@ ___
 
   ###### ORM
 > ![Hibernate Badge](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+  ###### Web-API's
+> ![REST API Badge](https://img.shields.io/badge/restapi-%236DB33F.svg?style=for-the-badge&logo=RESTAPI&logoColor=white)
+> ![SOAP Badge](https://img.shields.io/badge/SOAP-6DB33F?style=for-the-badge&logo=SOAPt&logoColor=white)
   
 </details>
 <details>
