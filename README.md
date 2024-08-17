@@ -52,11 +52,12 @@ ___
 <details>
   <summary><strong> Process Management </strong> <sub> (click to expand) </sub></summary>
   <br>
+  
   ###### Project Managment
-> ![Jira Badge](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  > ![Jira Badge](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   
   ###### Documentation
-> ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+  > ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 <br>
 </details>
