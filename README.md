@@ -25,7 +25,7 @@ ___
 
   ###### ORM
 > ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-  <br>
+  
 </details>
 <details>
   <summary><strong> Database & Storage Solutions </strong> <sub> (click to expand) </sub></summary>
