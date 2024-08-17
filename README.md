@@ -69,6 +69,7 @@ ___
 
 ###### Containerization
 > ![Docker Badge](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+> ![Podman Badge](https://img.shields.io/badge/Podman-5F246B?style=for-the-badge&logo=podman&logoColor=white)
 
 ###### Container Orchestration Tool
 > ![Kubernetes Badge](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
