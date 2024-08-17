@@ -31,7 +31,6 @@ ___
   
 ![PostgreSQL Badge](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite Badge](https://img.shields.io/badge/-SQLite-3B4252?style=flat&logo=sqlite&logoColor=white)
 ![SQLite Badge](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <br>
