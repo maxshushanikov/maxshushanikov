@@ -80,6 +80,14 @@ ___
 <br>
 </details>
 <details>
+  <summary><strong> Container Orchestration Tool </strong> <sub> (click to expand) </sub></summary>
+  <br>
+    
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+<br>
+</details>
+<details>
   <summary><strong> Version Control </strong> <sub> (click to expand) </sub></summary>
   <br>
     
