@@ -21,7 +21,7 @@ ___
 > ![OSGI Badge](https://img.shields.io/badge/OSGI-3B4252?style=for-the-badge&logo=OSGI&logoColor=5E81AC)
   
   ###### Python
-> ![FastAPI Badge](https://img.shields.io/badge/FastAPI-3B4252?style=for-the-badge&logo=fastapi&logoColor=BF616A)
+> ![FastAPI Badge](https://img.shields.io/badge/FastAPI-3B4252?style=for-the-badge&logo=fastapi&logoColor=009385)
   <br>
 </details>
 <details>
