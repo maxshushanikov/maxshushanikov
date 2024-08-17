@@ -39,10 +39,10 @@ ___
   <summary><strong> Testing </strong> <sub> (click to expand) </sub></summary>
   <br>
     
-![JUnit 5 Badge](https://img.shields.io/badge/-JUnit%205-3B4252?style=flat&logo=junit5&logoColor=8FBCBB)
-![Pytest Badge](https://img.shields.io/badge/-Pytest-3B4252?style=flat&logo=pytest&logoColor=88C0D0)
-![Selenium Badge](https://img.shields.io/badge/-Selenium-3B4252?style=flat&logo=selenium&logoColor=81A1C1)
-![Postman Badge](https://img.shields.io/badge/-Postman-3B4252?style=flat&logo=postman&logoColor=D08770)
+![JUnit 5 Badge](https://img.shields.io/badge/JUnit%205-3B4252?style=for-the-badge&logo=junit5&logoColor=8FBCBB)
+![Pytest Badge](https://img.shields.io/badge/Pytest-3B4252?style=for-the-badge&logo=pytest&logoColor=88C0D0)
+![Selenium Badge](https://img.shields.io/badge/Selenium-3B4252?style=for-the-badge&logo=selenium&logoColor=81A1C1)
+![Postman Badge](https://img.shields.io/badge/Postman-3B4252?style=for-the-badge&logo=postman&logoColor=D08770)
 
 <br>
 </details>
