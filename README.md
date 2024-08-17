@@ -29,28 +29,23 @@ ___
 </details>
 <details>
   <summary><strong> Database & Storage Solutions </strong> <sub> (click to expand) </sub></summary>
-  <br>
   
 ![PostgreSQL Badge](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite Badge](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<br>
 </details>
 <details>
   <summary><strong> Testing </strong> <sub> (click to expand) </sub></summary>
-  <br>
     
 ![JUnit 5 Badge](https://img.shields.io/badge/JUnit%205-3B4252?style=for-the-badge&logo=junit5&logoColor=8FBCBB)
 ![Pytest Badge](https://img.shields.io/badge/Pytest-3B4252?style=for-the-badge&logo=pytest&logoColor=88C0D0)
 ![Selenium Badge](https://img.shields.io/badge/Selenium-3B4252?style=for-the-badge&logo=selenium&logoColor=81A1C1)
 ![Postman Badge](https://img.shields.io/badge/Postman-3B4252?style=for-the-badge&logo=postman&logoColor=D08770)
 
-<br>
 </details>
 <details>
   <summary><strong> Process Management </strong> <sub> (click to expand) </sub></summary>
-  <br>
   
   ###### Project Managment
   > ![Jira Badge](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -58,7 +53,6 @@ ___
   ###### Documentation
   > ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-<br>
 </details>
 <details>
   <summary><strong> Build-Managment Tool </strong> <sub> (click to expand) </sub></summary>
