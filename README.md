@@ -3,7 +3,7 @@ I'm Maxim, an backend developer specializing in Java.
 ___
 <h2>🛠️ Tech Stack</h2>
 <details>
-  <summary><strong> Languages & Libraries </strong> <sub> (click to expand) </sub></summary>
+  <summary><strong> Languages </strong> <sub> (click to expand) </sub></summary>
   <br>
 
   ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -13,7 +13,7 @@ ___
   
 </details>
 <details>
-  <summary><strong> Frameworks </strong> <sub> (click to expand) </sub></summary>
+  <summary><strong> Frameworks & Libraries </strong> <sub> (click to expand) </sub></summary>
   
   ###### Java
 > ![Spring Badge](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
