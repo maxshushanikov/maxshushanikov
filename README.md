@@ -15,7 +15,7 @@ ___
 </details>
 <details>
   <summary><strong> Frameworks </strong> <sub> (click to expand) </sub></summary>
-  <br>
+  
   ###### Java
 > ![Spring Badge](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 > ![OSGI Badge](https://img.shields.io/badge/OSGI-3B4252?style=for-the-badge&logo=OSGI&logoColor=5E81AC)
