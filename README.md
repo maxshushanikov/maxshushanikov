@@ -56,21 +56,16 @@ ___
 
 </details>
 <details>
-  <summary><strong> Build-Managment Tool </strong> <sub> (click to expand) </sub></summary>
-  <br>
-    
-![Gradle Badge](https://img.shields.io/badge/Gradle-3B4252?style=for-the-badge&logo=gradle&logoColor=A3BE8C)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-
-<br>
-</details>
-<details>
   <summary><strong> CI/CD-Tool </strong> <sub> (click to expand) </sub></summary>
   <br>
 
 ###### Version Control
 > ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 > ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
+
+###### Build-Managment Tool
+> ![Gradle Badge](https://img.shields.io/badge/Gradle-3B4252?style=for-the-badge&logo=gradle&logoColor=A3BE8C)
+> ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 ###### Containerization
 > ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
