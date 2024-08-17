@@ -17,7 +17,7 @@ ___
   
   ###### Java
 > ![Spring Badge](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-> ![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-3B4252?style=flat&logo=springboot&logoColor=white)
+> ![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-3B4252?style=for-the-badge&logo=springboot&logoColor=white)
 > ![OSGI Badge](https://img.shields.io/badge/OSGI-3B4252?style=for-the-badge&logo=OSGI&logoColor=5E81AC)
   
   ###### Python
