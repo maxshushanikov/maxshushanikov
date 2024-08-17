@@ -23,6 +23,9 @@ ___
   
   ###### Python
 > ![FastAPI Badge](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+###### ORM
+> ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
   <br>
 </details>
 <details>
