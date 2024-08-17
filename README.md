@@ -37,6 +37,7 @@ ___
 </details>
 <details>
   <summary><strong> Testing </strong> <sub> (click to expand) </sub></summary>
+  <br>
     
 ![JUnit 5 Badge](https://img.shields.io/badge/JUnit%205-3B4252?style=for-the-badge&logo=junit5&logoColor=8FBCBB)
 ![Pytest Badge](https://img.shields.io/badge/Pytest-3B4252?style=for-the-badge&logo=pytest&logoColor=88C0D0)
