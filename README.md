@@ -80,7 +80,16 @@ ___
 
 <br>
 </details>
+<details>
+  <summary><strong> Operating System </strong> <sub> (click to expand) </sub></summary>
+  <br>
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<br>
+</details>
 <!--
 **maxshushanikov/maxshushanikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
