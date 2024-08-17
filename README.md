@@ -97,6 +97,14 @@ ___
 <br>
 </details>
 <details>
+  <summary><strong> CI/CD-Tool </strong> <sub> (click to expand) </sub></summary>
+  <br>
+    
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+<br>
+</details>
+<details>
   <summary><strong> IDE's </strong> <sub> (click to expand) </sub></summary>
   <br>
     
