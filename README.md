@@ -24,7 +24,7 @@ ___
   ###### Python
 > ![FastAPI Badge](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-###### ORM
+  ###### ORM
 > ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
   <br>
 </details>
@@ -50,18 +50,13 @@ ___
 <br>
 </details>
 <details>
-  <summary><strong> Project Management </strong> <sub> (click to expand) </sub></summary>
+  <summary><strong> Process Management </strong> <sub> (click to expand) </sub></summary>
   <br>
-    
-![Jira Badge](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-<br>
-</details>
-<details>
-  <summary><strong> Documentation </strong> <sub> (click to expand) </sub></summary>
-  <br>
-    
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+  ###### Project Managment
+> ![Jira Badge](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  
+  ###### Documentation
+> ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 <br>
 </details>
