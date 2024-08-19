@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Maxim, an backend developer specializing in Java.
+![](/assets/images/banner.png)
 ___
 <h2>🛠️ Tech Stack</h2>
 <details>
