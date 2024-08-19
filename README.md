@@ -54,7 +54,7 @@ ___
 <details>
   <summary><strong> Process Management </strong> <sub> (click to expand) </sub></summary>
   
-  ###### Project Managment
+  ###### Project Management
   > ![Jira Badge](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   
   ###### Documentation
