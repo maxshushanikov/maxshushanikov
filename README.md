@@ -80,7 +80,7 @@ ___
 > ![Kubernetes Badge](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ###### CI/CD
-![Jenkins Badge](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+> ![Jenkins Badge](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 <br>
 </details>
